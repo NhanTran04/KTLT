@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KTLT_2023\\BTGIUAKY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{784B163B-5C44-4958-ADD9-E3DA610882B7}|BTGIUAKY\\BTGIUAKY.vcxproj|D:\\KTLT_2023\\BTGIUAKY\\BTGIUAKY\\4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{784B163B-5C44-4958-ADD9-E3DA610882B7}|BTGIUAKY\\BTGIUAKY.vcxproj|solutionrelative:BTGIUAKY\\4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784B163B-5C44-4958-ADD9-E3DA610882B7}|BTGIUAKY\\BTGIUAKY.vcxproj|D:\\KTLT_2023\\BTGIUAKY\\BTGIUAKY\\5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{784B163B-5C44-4958-ADD9-E3DA610882B7}|BTGIUAKY\\BTGIUAKY.vcxproj|solutionrelative:BTGIUAKY\\5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784B163B-5C44-4958-ADD9-E3DA610882B7}|BTGIUAKY\\BTGIUAKY.vcxproj|D:\\KTLT_2023\\BTGIUAKY\\BTGIUAKY\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{784B163B-5C44-4958-ADD9-E3DA610882B7}|BTGIUAKY\\BTGIUAKY.vcxproj|solutionrelative:BTGIUAKY\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784B163B-5C44-4958-ADD9-E3DA610882B7}|BTGIUAKY\\BTGIUAKY.vcxproj|D:\\KTLT_2023\\BTGIUAKY\\BTGIUAKY\\3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{784B163B-5C44-4958-ADD9-E3DA610882B7}|BTGIUAKY\\BTGIUAKY.vcxproj|solutionrelative:BTGIUAKY\\3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784B163B-5C44-4958-ADD9-E3DA610882B7}|BTGIUAKY\\BTGIUAKY.vcxproj|D:\\KTLT_2023\\BTGIUAKY\\BTGIUAKY\\2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{784B163B-5C44-4958-ADD9-E3DA610882B7}|BTGIUAKY\\BTGIUAKY.vcxproj|solutionrelative:BTGIUAKY\\2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784B163B-5C44-4958-ADD9-E3DA610882B7}|BTGIUAKY\\BTGIUAKY.vcxproj|D:\\KTLT_2023\\BTGIUAKY\\BTGIUAKY\\7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{784B163B-5C44-4958-ADD9-E3DA610882B7}|BTGIUAKY\\BTGIUAKY.vcxproj|solutionrelative:BTGIUAKY\\7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784B163B-5C44-4958-ADD9-E3DA610882B7}|BTGIUAKY\\BTGIUAKY.vcxproj|D:\\KTLT_2023\\BTGIUAKY\\BTGIUAKY\\6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{784B163B-5C44-4958-ADD9-E3DA610882B7}|BTGIUAKY\\BTGIUAKY.vcxproj|solutionrelative:BTGIUAKY\\6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784B163B-5C44-4958-ADD9-E3DA610882B7}|BTGIUAKY\\BTGIUAKY.vcxproj|D:\\KTLT_2023\\BTGIUAKY\\BTGIUAKY\\2251052078_TranLeNhan_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{784B163B-5C44-4958-ADD9-E3DA610882B7}|BTGIUAKY\\BTGIUAKY.vcxproj|solutionrelative:BTGIUAKY\\2251052078_TranLeNhan_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "5.cpp",
+              "DocumentMoniker": "D:\\KTLT_2023\\BTGIUAKY\\BTGIUAKY\\5.cpp",
+              "RelativeDocumentMoniker": "BTGIUAKY\\5.cpp",
+              "ToolTip": "D:\\KTLT_2023\\BTGIUAKY\\BTGIUAKY\\5.cpp",
+              "RelativeToolTip": "BTGIUAKY\\5.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T16:41:55.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4.cpp",
+              "DocumentMoniker": "D:\\KTLT_2023\\BTGIUAKY\\BTGIUAKY\\4.cpp",
+              "RelativeDocumentMoniker": "BTGIUAKY\\4.cpp",
+              "ToolTip": "D:\\KTLT_2023\\BTGIUAKY\\BTGIUAKY\\4.cpp",
+              "RelativeToolTip": "BTGIUAKY\\4.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T16:26:26.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "3.cpp",
+              "DocumentMoniker": "D:\\KTLT_2023\\BTGIUAKY\\BTGIUAKY\\3.cpp",
+              "RelativeDocumentMoniker": "BTGIUAKY\\3.cpp",
+              "ToolTip": "D:\\KTLT_2023\\BTGIUAKY\\BTGIUAKY\\3.cpp",
+              "RelativeToolTip": "BTGIUAKY\\3.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T16:14:56.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "2.cpp",
+              "DocumentMoniker": "D:\\KTLT_2023\\BTGIUAKY\\BTGIUAKY\\2.cpp",
+              "RelativeDocumentMoniker": "BTGIUAKY\\2.cpp",
+              "ToolTip": "D:\\KTLT_2023\\BTGIUAKY\\BTGIUAKY\\2.cpp",
+              "RelativeToolTip": "BTGIUAKY\\2.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T15:46:05.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1.cpp",
+              "DocumentMoniker": "D:\\KTLT_2023\\BTGIUAKY\\BTGIUAKY\\1.cpp",
+              "RelativeDocumentMoniker": "BTGIUAKY\\1.cpp",
+              "ToolTip": "D:\\KTLT_2023\\BTGIUAKY\\BTGIUAKY\\1.cpp",
+              "RelativeToolTip": "BTGIUAKY\\1.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T15:36:04.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "7.cpp",
+              "DocumentMoniker": "D:\\KTLT_2023\\BTGIUAKY\\BTGIUAKY\\7.cpp",
+              "RelativeDocumentMoniker": "BTGIUAKY\\7.cpp",
+              "ToolTip": "D:\\KTLT_2023\\BTGIUAKY\\BTGIUAKY\\7.cpp",
+              "RelativeToolTip": "BTGIUAKY\\7.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T12:43:26.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "6.cpp",
+              "DocumentMoniker": "D:\\KTLT_2023\\BTGIUAKY\\BTGIUAKY\\6.cpp",
+              "RelativeDocumentMoniker": "BTGIUAKY\\6.cpp",
+              "ToolTip": "D:\\KTLT_2023\\BTGIUAKY\\BTGIUAKY\\6.cpp",
+              "RelativeToolTip": "BTGIUAKY\\6.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T09:46:23.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "2251052078_TranLeNhan_1.cpp",
+              "DocumentMoniker": "D:\\KTLT_2023\\BTGIUAKY\\BTGIUAKY\\2251052078_TranLeNhan_1.cpp",
+              "RelativeDocumentMoniker": "BTGIUAKY\\2251052078_TranLeNhan_1.cpp",
+              "ToolTip": "D:\\KTLT_2023\\BTGIUAKY\\BTGIUAKY\\2251052078_TranLeNhan_1.cpp",
+              "RelativeToolTip": "BTGIUAKY\\2251052078_TranLeNhan_1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T09:45:49.002Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
