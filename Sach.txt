@@ -1,0 +1,10 @@
+01
+de men fill luu ky
+nhan tran
+1000
+10
+02
+cuoc chien giua cac vi sao
+long nhat
+2000
+15
